@@ -1,4 +1,4 @@
-# -TF2-Stuck-in-spectate-fix
+# Stuck in spectate fix [SourceMod]
 Corrects unassigned/spectate glitch when players join a team simultaneously
 
 When a group of players try and join a team at once, like during a map switch, the game may bug out and leave them stuck in an unassigned team.
